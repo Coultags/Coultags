@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coultags
-I am currently in school for Software and Web Development.
+I am currently graduate for Software and Web Development.
 Some of my projects have included working with Bootstrap4, Visual Studio Code, C# and Netframing.
 
 
